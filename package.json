@@ -1,7 +1,7 @@
 {
   "name": "electron-clock",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "A funny Clock Electron application",
   "main": "main.js",
   "scripts": {
     "start": "electron main.js"
@@ -16,12 +16,12 @@
     "start",
     "tutorial"
   ],
-  "author": "zxsu",
-  "license": "CC0-1.0",
+  "author": "suzp1984",
+  "license": "None",
   "bugs": {
-    "url": "https://github.com/electron/electron-quick-start/issues"
+    "url": "https://github.com:suzp1984/electron-clock/issues"
   },
-  "homepage": "https://github.com/electron/electron-quick-start#readme",
+  "homepage": "https://github.com:suzp1984/electron-clock#readme",
   "devDependencies": {
     "electron-prebuilt": "^0.37.8"
   }

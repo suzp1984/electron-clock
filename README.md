@@ -1,6 +1,8 @@
 # electron-clock
 a clock view running in an electron container
 
+![screen shot](https://github.com/suzp1984/electron-clock/raw/master/screenshot/screenshot1.png)
+
 # How to install & run
 
 ```bash
